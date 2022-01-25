@@ -1,0 +1,25 @@
+
+body{
+
+    background: #eee;
+}
+
+.main {
+    border: 1px solid #333;
+    width: 920px;
+    margin: 0 auto;
+    background: #FFF;
+    padding: 20px 50px;
+}
+header {
+    height: 140px;
+    border-bottom: 1px solid;
+}
+.tile {
+    width: 70%;
+    float: left;
+}
+.contactInfo {
+    width: 30%;
+    float: right;
+}
